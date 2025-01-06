@@ -1,0 +1,72 @@
+Agenda : 
+    > Electricity Bill Program
+    > JAVA - Local 
+             IDE
+    > Loops - 
+            While Loop
+    > Pattern
+==========================================
+
+>> ElectricityBill.java
+
+==========================================
+
+>> > "Java - Local Environment & Run on Your Machine"
+    
+    => We Write a Code and run a Code on a Local Machine.
+       For this We need Text Editor, JDK (JAVAC, JRE, JVM). 
+
+   > IDE : Integrated Development Environment
+    => We Write a Code on any IDE. It Compiled and Executes the Code at one Click.
+       It also Provides the Advanced Features like Testing, Debugging, Code Formatting.
+       Examples : Eclipse, NetBeans, IntelliJ IDEA, BlueJ, JGrasp, etc.
+
+    
+    => We also Write a code on Online Compiler, for this, the javac Compiler and JVM is Present on the Server, it compiles the Code and interpret by the JVM and gives the Output on the Screen.
+
+==========================================
+
+>> Java Code Execution Flow
+    (Byte codes are Platform Independent and Run Anywhere)
+   ------------------------
+
+    Java Code   =>    Java Compiler   =>    Byte Code  =>   JVM Interpreter   =>    CPU
+    
+    .java file                         .class file                      (Machine Code)
+                                        (intermediate                       01010
+                                           code )
+
+    > We write a code and save as a .java file.
+    > It compiled by the Java Compiler and provides the byte code which Platform independent.
+    > Output of Java Compiler is .class file.
+    > JVM is platform dependent.
+    > JVM takes this .class file as a input and provides the Output as Machine Level Code.
+    > This code executes by the CPU and Provides the Ouput.
+
+==========================================
+
+>> C++ Code Execution Flow
+    (Platform dependent : Means, the Code Compiled in which machine it will Run on the Same Machine Only.) 
+
+                                        0101001
+    C++ Code        =>      Compiler        =>      CPU
+
+    .cpp file                           machine code      
+
+===========================================
+
+>> Developer : Text Editor + javac + JVM Interpreter
+   User      : JVM
+
+   > Oracle provide entire kit which is JDK ( Java Development Kit)
+   > JDK includes : javac + Library Files + JRE + JVM
+
+===========================================
+
+    BREAK - 10 Minutes
+
+===========================================
+
+>> Loops
+        > Repeat Certain Set of Instructions.
+        
