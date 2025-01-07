@@ -1,0 +1,20 @@
+Agenda :
+        While Loop
+        For Loop    
+        Maths Based Problems
+        Scopes
+        Pattern Problems
+        Multiple Inputs
+
+Next Class :
+        Pre, Post Increments and Decrements
+        Ternary Operators
+
+=================================================
+
+Scope : Defines a Region / Block in which the Variable can be used.
+        {}.
+
+=================================================
+
+Problem Solving Starts.
