@@ -1,0 +1,6 @@
+Agenda :
+        Diamond Pattern
+        Integer to Character
+        Functions
+        Debugging
+        
