@@ -3,4 +3,6 @@ Agenda :
         Integer to Character
         Functions
         Debugging
-        
+
+The Basics Concepts Coding also be Uploaded.
+Questions on Functions Also Uploaded.
