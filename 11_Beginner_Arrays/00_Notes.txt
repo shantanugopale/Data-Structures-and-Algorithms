@@ -1,0 +1,26 @@
+Agenda :
+    Part - 1
+    ========
+    Function
+    GCD -> Effective Method
+           Multiple Inputs
+        Bonus : GCD of N numbers
+
+
+    LCM -> Basic Way
+        -> Using Formula Efficient Way
+
+    Binary -> Decimal
+    Decimal -> Binary
+
+    Part - 2
+    ========
+    Arrays (Data Structure)
+        Create
+        Input
+        Output
+        Traversal
+
+==============================================
+
+
