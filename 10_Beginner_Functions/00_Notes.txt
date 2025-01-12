@@ -1,8 +1,12 @@
 Agenda :
         Diamond Pattern
         Integer to Character
+        Compound Assignment
+        Ternary Assignment
+        Switch Case
         Functions
         Debugging
+
 
 The Basics Concepts Coding also be Uploaded.
 Questions on Functions Also Uploaded.
