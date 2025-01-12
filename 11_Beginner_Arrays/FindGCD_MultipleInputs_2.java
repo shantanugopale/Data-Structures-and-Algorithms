@@ -9,7 +9,7 @@
  */
 import java.util.Scanner;
 
-public class FindGCD_MultipleInputs {
+public class FindGCD_MultipleInputs_2 {
 
     static int gcd(int x, int y) {
 

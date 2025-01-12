@@ -9,7 +9,7 @@
  */
 import java.util.Scanner;
 
-public class FindLCM_BasicWay {
+public class FindLCM_BasicWay_3 {
 
     static int LCM(int element, int num) {
         int i = 1;

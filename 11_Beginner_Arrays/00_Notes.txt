@@ -11,15 +11,24 @@ Agenda :
         -> Using Formula Efficient Way
 
     Binary -> Decimal
+
+        e.g = 1 0 1
+
+             10^2       10^1        10^0        = 4*1 + 10*0 + 1*1
+             1             0          1         =  5
+
     Decimal -> Binary
+
+
 
     Part - 2
     ========
-    Arrays (Data Structure)
-        Create
-        Input
-        Output
-        Traversal
+    Arrays (Data Structure) :
+            It's a Container that allows us to store a collection of items under a single varible name.
+    Create
+    Input
+    Output
+    Traversal
 
 ==============================================
 

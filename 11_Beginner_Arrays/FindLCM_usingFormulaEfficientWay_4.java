@@ -10,7 +10,7 @@
  */
 import java.util.Scanner;
 
-public class FindLCM_usingFormulaEfficientWay {
+public class FindLCM_usingFormulaEfficientWay_4 {
 
     static int GCD(int A, int B) {
         while (A != 0) {        // for( ; A != 0 ;)
