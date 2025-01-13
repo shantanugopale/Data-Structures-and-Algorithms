@@ -4,6 +4,7 @@
         2 4 7 8
  */
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ReturnIndex_RepeatingElements_Array_3 {
@@ -12,9 +13,20 @@ public class ReturnIndex_RepeatingElements_Array_3 {
         int cnt = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == element) {
-                System.out.print(i + " ");
+                cnt++;
             }
         }
+
+        int j = 0;
+        int[] output = new int[cnt];
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == element) {
+                output[j] = i;
+                j++;
+            }
+        }
+        System.out.println(Arrays.toString(output));
+
     }
 
     public static void main(String[] args) {
