@@ -38,6 +38,5 @@ public class ReturnIndex_RepeatingElements_Array_3 {
         System.out.println("Enter the Check element : ");
         int element = sc.nextInt();
         checkReapeatElement(arr, element);
-
     }
 }
