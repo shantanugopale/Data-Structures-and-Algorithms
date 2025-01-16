@@ -1,0 +1,24 @@
+Agenda :
+    Doubts :
+        1> Remove or Insert in the Array
+            -> Insert an Element at x
+            -> Delete an Element at Specified Position x
+        2> How many Arguments to pass
+        3> Dynamic Size Arrays
+        4> ArrayOutOfBounds
+        5> Return Statement (non-void)
+        6> Position (index)
+
+----------Break - 10.30----------------
+
+    Array is Fixed Size Data Structure
+
+    to Overcome this we have one Concept in Java : Collection Framework..
+        In Collection Framework Lots of Data Structure are Precoded by Java Dev.
+        They Provided No of Classes and Interfaces which Provides the Better Functionality.
+    
+    > ArrayList : It is an Array that can grow in size based upon Requirement.
+                  When the Capacity gets Fulled it doubled it's capacity, copy the data into new allocated memory.
+                  It Degrades the Performance.
+                  Copying data is Time Taking.
+                  We can also ensure the Capacity of ArrayList to reduced the execution time if in case of it full.
