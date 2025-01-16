@@ -22,3 +22,27 @@ Agenda :
                   It Degrades the Performance.
                   Copying data is Time Taking.
                   We can also ensure the Capacity of ArrayList to reduced the execution time if in case of it full.
+                
+    Collection => Object : 
+                Object has some Properties and Behaviours.
+
+========================================================
+
+    Wrapper Classes :
+                    
+                    |--> Primitives (int, char, float, boolean,..)-------
+        Data  |-----|                                                   |
+                    |--> Object-----------------------------------------|                                         
+                                                                        |
+                                                                      Collection
+
+
+    -- 8 Wrapper class for 8 Primitives : 
+                    Integer
+                    Character
+                    Boolean
+                    Float
+                    Long
+                    Short
+                    Byte
+                    Double
