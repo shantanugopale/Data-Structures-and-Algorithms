@@ -29,7 +29,7 @@ class EfficientWay_ReturnIndex_RepeatingElements_Array_4 {
 
         Scanner sc = new Scanner(System.in);
 
-        int[] arr = new int[]{3, 2, 3, 4, 5, 3, 8, 3};
+        int[] arr = new int[]{5, 6, 7, 2, 7, 3, 7, 4};
 
         System.out.println("Enter the Element to Check and Return Index : ");
         int element = sc.nextInt();
