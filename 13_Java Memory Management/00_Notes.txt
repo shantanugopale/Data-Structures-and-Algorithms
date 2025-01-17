@@ -1,0 +1,61 @@
+==> Functions and Methods in Java
+===============================
+    Function an dreturn type
+    Scope of Variable
+    Call Stack
+    Stack vs Heap Memory
+    Primitives vs Object Reference
+    Garbage Collection
+    Problems
+
+======================================
+
+    > Methods
+        It's an Block of block of Code which only runs when it's called.
+        We can pass data, known parameters into a method.
+        Method are used to perform certain action and it's also known as Functions.
+
+        Methods increase the Reusability of code.
+        Code looks more modular and organized.
+
+========================================
+
+Primitives vs Objects
+
+    Primitives
+        int
+        float
+        char
+        long
+        short
+        byte
+        boolean
+        double
+
+    User defined data types / Advanced Datatypes / Objects
+        String
+        Array
+        ArrayList
+        .
+        .
+        .
+
+=========================================
+
+    Class
+    =====
+        It is the way to define how the object would look like.
+        Class has 2 terms :
+                        What it Has..?
+                        What it Does..?
+    
+    Object
+    =====
+        Object is the real entity of an Class.
+    
+==========================================
+
+    Memory
+    =====
+        When we create an blueprint, it won't take memory inside RAM, unless you create an Object.
+        
