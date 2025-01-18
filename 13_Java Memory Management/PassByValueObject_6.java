@@ -1,4 +1,6 @@
 
+import java.util.Arrays;
+
 public class PassByValueObject_6 {
 
     static void printArray(int[] arr) {
@@ -14,6 +16,7 @@ public class PassByValueObject_6 {
         printArray(a);
         System.out.println();
         System.out.println(a);
+        System.out.print(Arrays.toString(a));
 
     }
 }
