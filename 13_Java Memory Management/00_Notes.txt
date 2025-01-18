@@ -58,4 +58,47 @@ Primitives vs Objects
     Memory
     =====
         When we create an blueprint, it won't take memory inside RAM, unless you create an Object.
+
+        Memory :    To run an application in an optimal way, JVM divides memory into stack and heap area.
+
+        Stack =>
+            Stack memory in java is used for stati memory allocation.
+            It contains Primitive Values that are Specific to a method and Reference to a Objects referred from a method that are in a heap.
+            Static memory is fixed.
         
+        Heap =>
+            Heap space is used for the dynamic memory allocation of jva obbjects at runtime.
+            New Objects are always creates in Heap Memory.
+            We can Access them from Anywhere in the application.
+            Heap asks for memory during runtime.
+            
+
+=============================================
+
+    > When function is called it's gets created on the top of Stack.
+    > If function called again and again inconsistently, then there is situation comes known as Stack OverFlow.
+    > If the Stack Memory is full, java throws java.lang.StackOverFlowError
+    > Access to the Stack memory is fast when it compares to Heap Memory.
+
+=============================================
+
+    > All Objects are live in Heap Memory.
+    > new keyword is used to Memory allocation for a Object.
+    > If heap space is full, java throws java.lng.OutOfMemeoryError.
+
+==============================================
+
+    Garbage Collector
+    =================
+        > Garbage collection deals with finding and deleting the garbage from memeory..
+        > But, in Reality Garbage Collection tracks each and every Objects Available in the JVM heap space and removes unused ones.
+
+        >> GC works in two simple steps knwon as Mark and Swep :
+            Mark : It is where garbage Collector identifies which pieces of memory are in use and which are not
+            Sweep : This step removes objects identified during the "mark" phase.
+
+    Advantages : 
+            > No manual memory allocation/deallocation handling because unused memory space is automatically handled by GC.
+    DeAdvantages :
+            > Since JVM has to keep track of object reference creation/deletion, this activity requies more CPU power than the Original application.
+                It may affect the performance.
