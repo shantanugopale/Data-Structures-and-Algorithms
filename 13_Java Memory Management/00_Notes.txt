@@ -99,6 +99,6 @@ Primitives vs Objects
 
     Advantages : 
             > No manual memory allocation/deallocation handling because unused memory space is automatically handled by GC.
-    DeAdvantages :
+    Disadvantages :
             > Since JVM has to keep track of object reference creation/deletion, this activity requies more CPU power than the Original application.
                 It may affect the performance.
