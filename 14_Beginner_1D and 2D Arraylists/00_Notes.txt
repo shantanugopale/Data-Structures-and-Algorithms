@@ -1,0 +1,4 @@
+Agenda
+=======
+        Doubts
+            E.g : sum of pair of Elements in the Array x + y = z
